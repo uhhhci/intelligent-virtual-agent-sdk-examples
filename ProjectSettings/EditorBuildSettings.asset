@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/PhysicsBasedApproach/LLMControlVRv2.unity
+    guid: a5aa7205e86f4024fad465189b3c3b1c
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 5654424deb16a1547b18022adf988321,
+      type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: dfd7fde2160fd469da4a437c917e2551,
+      type: 2}
+    com.unity.renderstreaming.settings: {fileID: 11400000, guid: eaaad242393318e4f85c45e69c8837f0,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 48ab00a2f10080746b21c881fa3d779a,
+      type: 2}

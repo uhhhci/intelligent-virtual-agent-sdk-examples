@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43f9cf76dc9251c439a7f368486dd917, type: 3}
+  m_Name: SmartAvatarExampleFingerAnimationProfile
+  m_EditorClassIdentifier: 
+  fingerAnimationMode: 2
+  leftThumbOffsets:
+    positionOffset: {x: 0, y: 0, z: 0}
+    rotationOffset: {x: 90, y: 0, z: 0}
+  leftIndexOffsets:
+    positionOffset: {x: 0, y: 0, z: 0}
+    rotationOffset: {x: 90, y: 0, z: 0}
+  leftMiddleOffsets:
+    positionOffset: {x: 0, y: 0, z: 0}
+    rotationOffset: {x: 90, y: 0, z: 0}
+  leftRingOffsets:
+    positionOffset: {x: 0, y: 0, z: 0}
+    rotationOffset: {x: 90, y: 0, z: 0}
+  leftPinkyOffsets:
+    positionOffset: {x: 0, y: 0, z: 0}
+    rotationOffset: {x: 90, y: 0, z: 0}
+  rightThumbOffsets:
+    positionOffset: {x: 0, y: 0, z: 0}
+    rotationOffset: {x: 90, y: 0, z: 0}
+  rightIndexOffsets:
+    positionOffset: {x: 0, y: 0, z: 0}
+    rotationOffset: {x: 90, y: 0, z: 0}
+  rightMiddleOffsets:
+    positionOffset: {x: 0, y: 0, z: 0}
+    rotationOffset: {x: 90, y: 0, z: 0}
+  rightRingOffsets:
+    positionOffset: {x: 0, y: 0, z: 0}
+    rotationOffset: {x: 90, y: 0, z: 0}
+  rightPinkyOffsets:
+    positionOffset: {x: 0, y: 0, z: 0}
+    rotationOffset: {x: 90, y: 0, z: 0}

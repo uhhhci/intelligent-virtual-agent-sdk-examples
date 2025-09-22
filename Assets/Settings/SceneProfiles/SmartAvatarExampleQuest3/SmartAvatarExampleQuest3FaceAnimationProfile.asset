@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7f114a5e01b3564e95cc948b6e6928c, type: 3}
+  m_Name: SmartAvatarExampleQuest3FaceAnimationProfile
+  m_EditorClassIdentifier: 
+  avatarFaceGameObjectName: Body
+  visemeBlendshapeMapping:
+    sil: 52
+    pp: 53
+    ff: 54
+    th: 55
+    dd: 56
+    kk: 57
+    ch: 58
+    ss: 59
+    nn: 60
+    rr: 61
+    aa: 62
+    e: 63
+    i: 64
+    o: 65
+    u: 66

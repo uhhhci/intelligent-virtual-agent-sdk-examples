@@ -1,0 +1,1 @@
+download models here: https://docs.gpt4all.io/gpt4all_desktop/models.html#example-models
