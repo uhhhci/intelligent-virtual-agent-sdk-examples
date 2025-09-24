@@ -82,6 +82,12 @@ Features coming soon:
 
 ## Quick Start
 
+### Open as Unity Project
+1. Make sure you have the correct Unity version installed.
+2. Clone this repository to the desired location by executing: git clone https://github.com/uhhhci/intelligent-virtual-agent-sdk-examples.git in a terminal or using your favorite Git tool. You can alternatively download the .zip file and extract it from there.
+3. In Unity Hub, do "add project from disk" and select the folder "intelligent-virtual-agent-sdk-examples" from the location you cloned to
+
+
   #### Simple Agent
   - In the Project view, add `Packages/de.uhh.hci.ivh.core/Runtime/Prefabs/BasicServiceTemplate.prefab` to the ``conversationalAgent`` component
 
@@ -114,7 +120,7 @@ Features coming soon:
 
 For the main functions of the package you will need different API-keys. See the documentation in the [iva-server](https://github.com/uhhhci/iva-server) of how to get the API keys. 
 
-- To connect to the core services you can use the [ServiceConnector Application](https://git.informatik.uni-hamburg.de/presence/internal/ivh-sdk/applications/service-connector). In the BasicServiceTemplate in your scene you now need to set the IP to "localhost" the UHAMServerManager.
+- To connect to the core services you can use the [IVA Server](https://github.com/uhhhci/iva-server). In the BasicServiceTemplate in your scene you now need to set the IP to "localhost" the UHAMServerManager.
 
 - If you are students at Hamburg University, you can connect via the UHAM hosted server, please contact your supervisor/admin for the IP adress. In the BasicServiceTemplate in your scene you can add this IP to the BasicServerManager.
 
